@@ -1,0 +1,12 @@
+.centrar {
+  margin: 0 auto;
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: center;
+}
+th, td {
+  padding: 5px;
+}
+.pointer{
+  cursor: pointer;
+}
